@@ -1,5 +1,5 @@
-# Date: 16 Feb 2016
-## Creator: Christina Smith
+# Date: 18 Feb 2016
+## Creator: #############
 ## Purpose: Define functions to cache the potentially result of a potentially 
 ## time-consuming calculation, in this case, the inverse of a matrix.
 ##
